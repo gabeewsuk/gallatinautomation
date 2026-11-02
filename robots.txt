@@ -1,3 +1,8 @@
 User-agent: *
 Allow: /
+
+User-agent: Googlebot-Image
+Disallow: /gabe.jpg
+Disallow: /ben.jpg
+
 Sitemap: https://gallatinautomation.com/sitemap.xml
